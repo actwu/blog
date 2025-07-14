@@ -6,7 +6,7 @@ app('Blog-web4'); fav(3);
 </script>
 
 # Web 4 is now. User is Server.
-**Made By [Actwu](https://actwu github.io)**
+**Made By [Actwu](https://actwu.github.io)**
 
 ## Start of encounter
 
