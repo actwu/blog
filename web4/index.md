@@ -5,6 +5,9 @@
 app('Blog-web4'); fav(3);
 </script>
 
+# Web 4 is now. User is Server.
+**Made By [Actwu](https://actwu github.io)**
+
 ## Start of encounter
 
 I have spent many years working in the world of web development and research. I started with web two and I loved it. Web two gave me a strong foundation and taught me discipline. I learned how to build clean and fast websites and how to respect the browser. I enjoyed seeing how people used my sites and how they interacted with them. But I also saw the problems that web two created. Too much centralization. Too much reliance on the cloud. Too many unnecessary layers and abstractions. Still I kept working and I kept learning. I also explored the research side of technology. I built my own Linux based operating systems and my own artificial intelligence stack. I wrote my own protocols and even designed my own devices. I always wanted to understand how systems work at their core. I believe in fixing the foundation instead of adding more and more layers on top. This mindset shaped the way I look at the web today.
