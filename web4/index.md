@@ -79,23 +79,13 @@ Web4 is not a standard but a practice; not a framework but a philosophy; not an 
 
 ## Principles
 
-The web is forgiving; use that power.
-Browsers are designed to tolerate unknown tags, attributes and semantics. We teach the browser what they mean without waiting for committees.
+ The web is forgiving - use that power.  
+-  Attributes are state - use them intentionally.  
+-  The DOM is enough [ don’t fight it.  
+-  Syntax is expression - write what you mean.  
+-  The browser is already capable [ trust it.  
+-  Performance is a right - not an afterthought.  
 
-Attributes are state; use them intentionally.
-We prefer to set, toggle and remove attributes directly on elements, because the DOM itself is the source of truth.
-
-The DOM is enough; don’t fight it.
-You don’t need to ship megabytes of JavaScript to build dynamic experiences. Native APIs like insertAdjacentHTML, textContent and remove are already here; learn them, master them, use them properly.
-
-Syntax is expression; write what you mean.
-With NUM, our language of Web4, we write declaratively using custom tags and attributes that express intent, and let the compiler transpile it into optimized, valid HTML and JavaScript.
-
-The browser is already capable; trust it.
-We don’t ship polyfills, CDNs or unnecessary runtimes. We let the browser do what it was designed to do, and we help it understand us better.
-
-Performance is a right; not an afterthought.
-Web4 sites are fast by default. Clean output and efficient DOM updates are the baseline.
 
 ## Our Promise
 
@@ -103,15 +93,17 @@ We will teach developers to think in attributes, not divs; to extend semantics w
 
 ## The Web4 Way
 
-Create your own elements and semanticstap, part, view.
-Define your own attributescolor, type, state.
-Extend the browser via Element.prototype, CustomElements and declarative patterns.
-Write in .num files if desiredexpressive syntax that compiles to clean .html.
-Avoid bloat, avoid frameworks, avoid unnecessary abstractions.
+- Create your own elements and semantics: `<tap>`, `<part>`, `<view>`.  
+- Define your own attributes: `color`, `type`, `state`.  
+- Extend the browser via `Element.prototype`, `CustomElements`, and declarative patterns.  
+- Write in `.num` files if desired — expressive syntax that compiles to clean `.html`.  
+- Avoid bloat, frameworks, and unnecessary abstractions.  
+
 
 ## Join Us
+Web4 is here for everyone who believes the web is already good enough — and just needs to be understood better.  
 
-Web4 is here for everyone who believes the web is already good enough and just needs to be understood better.
-We are not waiting for the future. We are building it now.
+We are not waiting for the future.  
+We are building it now.  
 
-Stop fighting the browser. Start teaching it. That is the Web4 way.
+**Stop fighting the browser. Start teaching it. That is the Web4 way.**
