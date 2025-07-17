@@ -96,12 +96,12 @@ We will teach developers to think in attributes, not divs; to extend semantics w
 - Create your own elements and semantics: `<tap>`, `<part>`, `<view>`.  
 - Define your own attributes: `color`, `type`, `state`.  
 - Extend the browser via `Element.prototype`, `CustomElements`, and declarative patterns.  
-- Write in `.num` files if desired — expressive syntax that compiles to clean `.html`.  
+- Write in `.num` files if desired expressive syntax that compiles to clean `.html`.  
 - Avoid bloat, frameworks, and unnecessary abstractions.  
 
 
 ## Join Us
-Web4 is here for everyone who believes the web is already good enough — and just needs to be understood better.  
+Web4 is here for everyone who believes the web is already good enough and just needs to be understood better.  
 
 We are not waiting for the future.  
 We are building it now.  
